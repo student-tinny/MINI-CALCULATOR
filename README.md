@@ -1,4 +1,4 @@
-# MINI-CALCULATOR
+# CALCULATOR
 This calculator have created using HTML, CSS, JavaScript, and Express.js.
 
 
